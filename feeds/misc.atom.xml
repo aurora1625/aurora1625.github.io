@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Zhibo</title><link href="aurora1625.github.io/" rel="alternate"></link><link href="aurora1625.github.io/feeds/misc.atom.xml" rel="self"></link><id>aurora1625.github.io/</id><updated>2014-05-11T00:00:00+02:00</updated><entry><title>Hello Pelican</title><link href="aurora1625.github.io/hello-pelican.html" rel="alternate"></link><updated>2014-05-11T00:00:00+02:00</updated><author><name>Zhibo</name></author><id>tag:aurora1625.github.io,2014-05-11:hello-pelican.html</id><summary type="html">&lt;h1&gt;Blog test&lt;/h1&gt;
+&lt;p&gt;又是不安分的写博客了&lt;/p&gt;</summary><category term="Writing"></category></entry></feed>
